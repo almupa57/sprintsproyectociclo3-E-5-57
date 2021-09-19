@@ -1,0 +1,302 @@
+.contenedor-flex{
+    flex-direction: row;
+    display: flex;
+    background-color:crimson;
+   
+}
+
+.contenedor-flex> div{
+    background-color:aqua;
+    width: 50%;   
+    padding: 1px;
+    margin: 2px;
+    align-items: center;
+}
+
+.contenedor1-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+
+}
+
+ol{display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+header{
+    
+    background-color:lightgreen;
+    text-align:center;  
+}
+header img{
+    border-radius: 300px;  
+    width: 30;
+}
+
+.contenedor3-flex{
+    flex-direction: row;
+    display: flex;
+    background-color:crimson;
+   
+}
+.contenedor3-flex{
+    background-color:aqua;
+    width: 100%;   
+    padding: 1px;
+    
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+.contenedor31-flex{
+    flex-direction: row;
+    display: flex;
+    background-color:crimson;
+}
+.contenedor31-flex> div{
+    background-color:aqua;
+    width: 33%;   
+    padding: 1px;
+    margin: 2px;
+    align-items: center;
+}
+
+
+
+.contenedor32-flex>p{
+    text-align:center;
+    align-items: center;
+    border-radius: 100px;  
+    width: 20;
+}
+
+.contenedor33-flex>p{
+    text-align:center;
+    align-items: center;
+    border-radius: 100px;  
+    width: 20;
+}
+
+.contenedor34-flex>p{
+    text-align:center;
+    align-items: center;
+    border-radius: 100px;  
+    width: 20;
+}
+
+.contenedor4-flex{
+    flex-direction: row;
+    display: flex;
+    background-color:crimson;
+   
+}
+.contenedor4-flex{
+    background-color:aqua;
+    width: 100%;   
+    padding: 1px;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;}
+
+    .contenedor40-flex{
+        flex-direction: row;
+        display: flex;
+        background-color:crimson;
+       
+    }
+    
+    .contenedor40-flex> div{
+        background-color:aqua;
+        width: 50%;   
+        padding: 1px;
+        margin: 2px;
+        align-items: center;
+    }  
+
+    .contenedor41-flex{
+        flex-direction: row;
+        display: flex;
+        background-color:crimson;
+       
+    }
+    
+    .contenedor41-flex> div{
+        background-color:aqua;
+        width: 50%;   
+        padding: 1px;
+        margin: 2px;
+        align-items: center;
+    }
+    .contenedor42-flex{
+        flex-direction: row;
+        display: flex;
+        background-color:crimson;
+       
+    }
+    
+    .contenedor42-flex> div{
+        background-color:aqua;
+        width: 50%;   
+        padding: 1px;
+        margin: 2px;
+        align-items: center;
+    }
+
+    .contenedor400-flex{
+        flex-direction: row;
+        display: flex;
+        background-color:crimson;
+       
+    }
+    
+    .contenedor400-flex> div{
+        background-color:aqua;
+        width: 50%;   
+        padding: 1px;
+        margin: 2px;
+        align-items: center;
+    }  
+    .contenedor43-flex{
+        flex-direction: row;
+        display: flex;
+        background-color:crimson;
+       
+    }
+    
+    .contenedor43-flex> div{
+        background-color:aqua;
+        width: 50%;   
+        padding: 1px;
+        margin: 2px;
+        align-items: center;
+    }
+
+    .contenedor44-flex{
+        flex-direction: row;
+        display: flex;
+        background-color:crimson;
+       
+    }
+    
+    .contenedor44-flex> div{
+        background-color:aqua;
+        width: 50%;   
+        padding: 1px;
+        margin: 2px;
+        align-items: center;
+    }
+
+    .contenedor5-flex{
+        flex-direction: row;
+        display: flex;
+        background-color:crimson;
+       
+    }
+    .contenedor5-flex{
+        background-color:aqua;
+    width: 120%;   
+    padding: 1px;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;}
+
+    
+    .contenedor51-flex{
+        flex-direction: row;
+        display: flex;
+        background-color:crimson;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .contenedor51-flex > div{
+        width: 280px;
+        height: 210px;
+    }
+    
+    .contenedor52-flex>p{
+        display: flex;
+        text-align:center;
+        align-items: center;
+        border-radius: 100px;  
+        width: 60;
+    }
+    
+    .contenedor53-flex>p{
+        text-align:center;
+        align-items: center;
+        border-radius: 100px;  
+        width: 20;
+    }
+    
+    .contenedor54-flex>p{
+        text-align:center;
+        align-items: center;
+        border-radius: 100px;  
+        width: 20;
+    }
+
+    .contenedor55-flex>p{
+        text-align:center;
+        align-items: center;
+        border-radius: 100px;  
+        width: 20;
+    }
+
+    .contenedor56-flex>p{
+        text-align:center;
+        align-items: center;
+        border-radius: 100px;  
+        width: 40;
+    }
+    
+    .contenedor6-flex{
+        flex-direction: row;
+        display: flex;
+        background-color:crimson;
+       
+    }
+    .contenedor6-flex{
+        background-color:aqua;
+    width: 100%;   
+    padding: 1px;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;}
+
+    .contenedor61-flex{
+        flex-direction: row;
+        display: flex;
+        background-color:crimson;
+       
+    }
+    
+    .contenedor61-flex> div{
+        background-color:aqua;
+        width: 50%;   
+        padding: 1px;
+        margin: 2px;
+        
+        
+    }
+
+    .contenedor62-flex{
+        
+        align-items: center;
+        justify-content: center;
+        font-size: 20px;
+    }
+
+    .contenedor63>h2{
+        
+        align-items: center;
+        justify-content: bottom;
+        font-size: 20px;
+    }
+   
